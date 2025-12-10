@@ -5,7 +5,7 @@
 SIM ?= icarus
 TOPLEVEL_LANG ?= verilog
 SRC_DIR = $(PWD)/../src
-PROJECT_SOURCES = project.v
+PROJECT_SOURCES = tt_um_USERNAME_DESIGN_NAME_d_flip_flop_2.v
 
 ifneq ($(GATES),yes)
 
